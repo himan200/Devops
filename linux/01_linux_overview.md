@@ -1,7 +1,7 @@
 # **Linux Overview**
 
 ## What is linux ?
-Linux is an Open-Source  Unix-like operating systems based on the Linux Kernel, an operating system kernel first released on september 17,1991, by **Linux Torvalds**. 
+Linux is an Open-Source  Unix-like operating systems based on the Linux Kernel, an operating system kernel first released on september 17,1991, by **Linus Torvalds**. 
 
 ## Predecessors of Linux
 - It started in 1969.
@@ -20,5 +20,3 @@ Linux is an Open-Source  Unix-like operating systems based on the Linux Kernel, 
 CPU
 Memory
 periperal devices
-
-
