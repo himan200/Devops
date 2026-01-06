@@ -58,6 +58,7 @@ The file hierarchy in Linux includes several directories critical for the system
 - `/proc` – A virtual filesystem providing real-time process and kernel information.
 - `/srv` – Contains data served by system services, such as web server files.
 
+---
 
 ## Most Important Linux Directories (and Why)
 
