@@ -1,4 +1,4 @@
-[200~# Filesystem Types
+# Filesystem Types
 
 Linux supports many **filesystem types**, each optimized for different needs—speed, large storage, or smaller devices. Every filesystem organizes data in its own way.
 
