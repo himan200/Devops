@@ -25,6 +25,7 @@ Filesystem     Type     1K-blocks    Used Available Use% Mounted on
 udev           devtmpfs    501356       4    501352   1% /dev
 tmpfs          tmpfs       102544    1068    101476   2% /run
 /dev/sda6      xfs       13752320  460112  13292208   4% /home
+```
 
 - The `-T` flag shows the filesystem type.
 
